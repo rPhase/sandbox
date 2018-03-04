@@ -1,1 +1,1 @@
-"# Sandbox containing miscellaneous code" 
+# Sandbox containing miscellaneous code
