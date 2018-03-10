@@ -1,0 +1,1 @@
+link.o: link.S
