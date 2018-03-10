@@ -1,0 +1,6 @@
+jim	70 	95	end
+jill	50	90	80	end
+john	65	end
+delete	jill
+jack	50	35	end
+delete	jim
