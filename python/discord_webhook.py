@@ -8,12 +8,15 @@ import json
 load_dotenv(find_dotenv())
 
 url = os.getenv("WEBHOOK_URL")
+user = os.getenv("USERID")
+avatar = os.getenv("AVATAR")
 header = {"content-type": "application/json"}
 
 # Sample object to send
 data = {
-    "username": "Test",
-    "content": "Hello World!"
+    "username": user,
+	"avatar_url": avatar,
+    "content": "a"
 }
 
 
